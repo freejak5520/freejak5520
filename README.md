@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Projects
+
+- [TFT - Item Build Quiz](https://tft-quiz.vercel.app/)
+- [1 Rep Max Calculator](https://one-rm-cal.vercel.app/)
