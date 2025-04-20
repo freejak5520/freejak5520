@@ -1,21 +1,48 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**freejak5520/freejak5520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+React, Next.js와 TypeScript를 주로 사용하는 프론트엔드 개발자입니다.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 TFT - Item Build Quiz
 
-Projects
+TFT 아이템 조합 학습을 위한 퀴즈 애플리케이션
 
-- [TFT - Item Build Quiz](https://tft-quiz.vercel.app/)
-- [1 Rep Max Calculator](https://one-rm-cal.vercel.app/)
+[배포 링크](https://tft-quiz.vercel.app/)
+
+### 💪 1 Rep Max Calculator
+
+운동 1회 최대 중량(1RM)을 계산해주는 웹 애플리케이션
+
+[배포 링크](https://one-rm-cal.vercel.app/)
+
+## Public Repository
+
+### 🌐 blog-front
+
+Next.js로 구현한 블로그 프론트엔드 프로젝트입니다.
+
+[깃허브 링크](https://github.com/freejak5520/blog-front)
+
+### ⚡ blog-api
+
+Laravel 11로 구현한 블로그 API 프로젝트입니다.
+
+[깃허브 링크](https://github.com/freejak5520/blog-api)
+
+### 🧩 Storybook-8-TypeScript-Snippets
+
+VSCode 확장 프로그램으로 사용할 수 있는 Storybook 8 TypeScript Code Snippets입니다.
+
+[깃허브 링크](https://github.com/freejak5520/Storybook-8-TypeScript-Snippets)
+
+### 🔧 new-macbook
+
+처음 MacBook을 설정할 때 필요한 필수 단계를 요약한 개인 문서입니다.
+
+[깃허브 링크](https://github.com/freejak5520/new-macbook)
+
+## Contact
+
+- 📧 이메일: <freejak5520@gmail.com>
+- 🌐 블로그: <https://velog.io/@freejak5520>
