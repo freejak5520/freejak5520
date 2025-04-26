@@ -18,6 +18,12 @@ TFT 아이템 조합 학습을 위한 퀴즈 애플리케이션
 
 ## Public Repository
 
+### 모노레포 템플릿 Turborepo + React + Vite + Next.js + TailwindCSS + Storybook
+
+Turborepo, pnpm 을 사용한 공통 UI 라이브러리와, docs 웹, storybook 모노레포 프로젝트 템플릿 입니다.
+
+[깃허브 링크(jj-forge/ui-kit-template)](https://github.com/jj-forge/ui-kit-template)
+
 ### 🌐 blog-front
 
 Next.js로 구현한 블로그 프론트엔드 프로젝트입니다.
