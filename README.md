@@ -24,25 +24,25 @@ Turborepo, pnpm 을 사용한 공통 UI 라이브러리와, docs 웹, storybook 
 
 [깃허브 링크(jj-forge/ui-kit-template)](https://github.com/jj-forge/ui-kit-template)
 
-### 🌐 blog-front
+### blog-front
 
 Next.js로 구현한 블로그 프론트엔드 프로젝트입니다.
 
 [깃허브 링크](https://github.com/freejak5520/blog-front)
 
-### ⚡ blog-api
+### blog-api
 
 Laravel 11로 구현한 블로그 API 프로젝트입니다.
 
 [깃허브 링크](https://github.com/freejak5520/blog-api)
 
-### 🧩 Storybook-8-TypeScript-Snippets
+### Storybook-8-TypeScript-Snippets
 
 VSCode 확장 프로그램으로 사용할 수 있는 Storybook 8 TypeScript Code Snippets입니다.
 
 [깃허브 링크](https://github.com/freejak5520/Storybook-8-TypeScript-Snippets)
 
-### 🔧 new-macbook
+### new-macbook
 
 처음 MacBook을 설정할 때 필요한 필수 단계를 요약한 개인 문서입니다.
 
@@ -50,5 +50,5 @@ VSCode 확장 프로그램으로 사용할 수 있는 Storybook 8 TypeScript Cod
 
 ## Contact
 
-- 📧 이메일: <freejak5520@gmail.com>
-- 🌐 블로그: <https://velog.io/@freejak5520>
+- 이메일: <freejak5520@gmail.com>
+- 블로그: <https://velog.io/@freejak5520>
