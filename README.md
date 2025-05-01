@@ -53,6 +53,13 @@ Turborepo, pnpm 을 사용한 공통 UI 라이브러리와, docs 웹, storybook 
 
 [깃허브 링크(jj-forge/ui-kit-template)](https://github.com/jj-forge/ui-kit-template)
 
+### vite-react-components-library-example
+
+vite library mode를 사용한 리액트 컴포넌트 라이브러리 예제 입니다.
+
+[깃허브 링크](https://github.com/freejak5520/vite-react-components-library-example)
+
+
 ### blog-front
 
 Next.js로 구현한 블로그 프론트엔드 프로젝트입니다.
