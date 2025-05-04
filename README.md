@@ -15,7 +15,7 @@ SSR 프론트엔드 개발을 위해 Next.js(app router), zod, TailwindCSS 를 �
 
 조합 결과 아이템이 문제로 주어지고 해당 아이템을 만들기 위한 베이스 아이템을 선택하고 결과를 알려줘 반복 학습을 할 수 있도록 제작했습니다.
 
-<https://tft-quiz.vercel.app/>
+<https://tft-quiz.fdev.kr/>
 
 <details>
   <summary>더보기</summary>
@@ -32,7 +32,7 @@ SSR 프론트엔드 개발을 위해 Next.js(app router), zod, TailwindCSS 를 �
 
 3대 측정 후 재미로 자주 사용하는 1RM 계산기를 구현했습니다.
 
-<https://one-rm-cal.vercel.app/>
+<https://one-rm-cal.fdev.kr/>
 
 <details>
   <summary>더보기</summary>
