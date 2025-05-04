@@ -45,6 +45,12 @@ SSR 프론트엔드 개발을 위해 Next.js(app router), zod, TailwindCSS 를 �
 
 ## Public Repositories
 
+### use-calendar
+
+달력 구현에 필요한 최소한의 일자 및 요일 배열을 제공하는 리액트 useClaendar 훅
+
+[깃허브 링크](https://github.com/freejak5520/use-calendar)
+
 ### 모노레포 템플릿 Turborepo + React + Vite + Next.js + TailwindCSS + Storybook
 
 Turborepo, pnpm 을 사용한 공통 UI 라이브러리와, docs 웹, storybook 모노레포 프로젝트 템플릿 입니다.
@@ -58,12 +64,6 @@ Turborepo, pnpm 을 사용한 공통 UI 라이브러리와, docs 웹, storybook 
 vite library mode를 사용한 리액트 컴포넌트 라이브러리 예제 입니다.
 
 [깃허브 링크](https://github.com/freejak5520/vite-react-components-library-example)
-
-### use-calendar
-
-달력 구현에 필요한 최소한의 일자 및 요일 배열을 제공하는 리액트 useClaendar 훅
-
-[깃허브 링크](https://github.com/freejak5520/use-calendar)
 
 ### blog-front
 
