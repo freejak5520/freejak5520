@@ -16,6 +16,7 @@ SSR 프론트엔드 개발을 위해 Next.js(app router), zod, TailwindCSS 를 �
 
 - [TFT - Item Build Quiz](https://tft-quiz.fdev.kr/) - 롤토체스(Teamfight Tactics) 게임 내 아이템 조합 학습을 위한 퀴즈 애플리케이션입니다.
 - [1 Rep Max Calculator](https://one-rm-cal.fdev.kr/) - 운동 1회 최대 중량(1RM) 계산기 입니다.
+- [Mixpanel Debugger](https://chromewebstore.google.com/detail/fjjkibgfkaookibdfnecmodmdjbbchkb?utm_source=item-share-cb) - 믹스패널 이벤트 추적 디버그를 위한 크롬 확장(개발자 도구)
 
 <br/><br/>
 
