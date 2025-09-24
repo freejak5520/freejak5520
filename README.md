@@ -6,10 +6,6 @@ SPA 개발을 위해 React, Vite, TailwindCSS, SWR 을 주로 사용하며
 
 SSR 프론트엔드 개발을 위해 Next.js(app router), zod, TailwindCSS 를 주로 사용합니다.
 
-<br/>
-
-[프론트엔드 개발자 이력서](https://resume.fdev.kr)
-
 <br/><br/>
 
 ## Projects
