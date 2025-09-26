@@ -18,7 +18,6 @@ SSR 프론트엔드 개발을 위해 Next.js(app router), zod, TailwindCSS 를 �
 
 ## Public Repositories
 
-- [resume](https://github.com/freejak5520/resume) - 프론트엔드 개발자 이력서
 - [use-calendar](https://github.com/freejak5520/use-calendar) - 달력 구현에 필요한 최소한의 일자 및 요일 배열을 제공하는 리액트 useClaendar 훅 [![npm link](https://img.shields.io/badge/npm-npm?logo=npm&logoColor=%23cb3837&color=%23ffffff&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40freejak5520%2Fuse-calendar)](https://www.npmjs.com/package/@freejak5520/use-calendar)
 - [모노레포 템플릿](https://github.com/jj-forge/ui-kit-template) - Turborepo + React + Vite + Next.js + TailwindCSS + Storybook 템플릿
 - [vite-react-components-library-example](https://github.com/freejak5520/vite-react-components-library-example) - vite를 사용한 리액트 컴포넌트 라이브러리 예제 입니다.
